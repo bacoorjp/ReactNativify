@@ -7,9 +7,14 @@
   },
   "dependencies": {
     "babel-plugin-rewrite-require": "1.9.0",
+    "bacoor-bip39": "^2.3.1",
     "bitcoinjs-lib": "^2.3.0",
+    "crypto-js": "^3.1.9-1",
+    "ethereumjs-wallet": "^0.6.0",
+    "is-buffer": "^1.1.5",
     "node-libs-browser": "2.0.0",
     "react": "15.4.2",
-    "react-native": "0.42.0-rc.1"
+    "react-native": "0.42.0-rc.1",
+    "readable-stream": "^2.2.11"
   }
 }
